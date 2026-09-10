@@ -1,0 +1,5 @@
+OpenWeatherMap API -- API do clima
+NewsAPI -- APi de noticias
+Uvicorn
+FastAPI
+asyncio
